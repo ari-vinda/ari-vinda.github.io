@@ -476,7 +476,7 @@ window.addEventListener('scroll', () => {
 });
 
 // ===== Google Sheets Integration - Fetch and Display Wishes =====
-const sheetScriptURL = 'https://script.google.com/macros/s/AKfycby6jOmXCTAsrXybINsau4eZ2KgiAouRYKYrhC1UGuThBmhmah2jfOlt7WAjIO9ifZac/exec';
+const sheetScriptURL = 'https://script.google.com/macros/s/AKfycbwwBS81WNKk96Jkc7w8f-snBGK73mE43BGaZ-z_PSpuKCCPC_VManM_3B2EWERJu0Ehcg/exec';
 let allWishes = [];
 
 // Fetch wishes from Google Sheet
